@@ -7,5 +7,5 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+#{% include base_path %}
 Download [here](http://wchoEvo.github.io/files/weichinho_cv.pdf).
