@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download here](http://wchoEvo.github.io/files/weichinho_cv.pdf).
+[Download PDF here](http://wchoEvo.github.io/files/weichinho_cv.pdf).
