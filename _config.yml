@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "" #"Your Name / Site Title"
+title                    : "Personal page" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Wei-Chin Ho"
 description              : &description "An evolutionary biologist."
