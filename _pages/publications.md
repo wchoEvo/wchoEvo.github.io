@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-1. Wei-Chin Ho and Jianzhi Zhang (2014) The genotype-phenotype map of yeast complex traits: basic parameters and the role of natural selection. Mol. Biol. Evol. 31(6): 1568-1580.
+1. Wei-Chin Ho and Jianzhi Zhang (2014) The genotype-phenotype map of yeast complex traits: basic parameters and the role of natural selection. *Mol. Biol. Evol.* 31(6): 1568-1580.
 
 2. Wei-Chin Ho and Jianzhi Zhang (2016) Adaptive genetic robustness of Escherichia coli metabolic fluxes. Mol. Biol. Evol. 33(5): 1164-1176.
 
