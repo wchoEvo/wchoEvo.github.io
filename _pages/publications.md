@@ -21,4 +21,4 @@ urlcolor: blue
 <u><a href="https://doi.org/10.1093/molbev/msw002">Link</a></u>
 
 * 1\. Wei-Chin Ho and Jianzhi Zhang (2014) The genotype-phenotype map of yeast complex traits: basic parameters and the role of natural selection. *Mol. Biol. Evol.* 31(6): 1568-1580.
-<u>[Link](https://doi.org/10.1093/molbev/msu131)</u>
+<u><a href="https://doi.org/10.1093/molbev/msu131">Link</a></u>
