@@ -19,5 +19,5 @@ Calum J. Maclean*, Brian P.H. Metzger*, Jian-Rong Yang*, Wei-Chin Ho, Bryan Moye
 
 Wei-Chin Ho and Jianzhi Zhang (2016) Adaptive genetic robustness of Escherichia coli metabolic fluxes. *Mol. Biol. Evol.* 33(5): 1164-1176.
 
-Wei-Chin Ho and Jianzhi Zhang (2014) The genotype-phenotype map of yeast complex traits: basic parameters and the role of natural selection. *Mol. Biol. Evol.* 31(6): 1568-1580.
+1. Wei-Chin Ho and Jianzhi Zhang (2014) The genotype-phenotype map of yeast complex traits: basic parameters and the role of natural selection. *Mol. Biol. Evol.* 31(6): 1568-1580.
 [Link](https://doi.org/10.1093/molbev/msu131)
