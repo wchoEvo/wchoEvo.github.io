@@ -8,7 +8,7 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
-
+  
 6. Wei-Chin Ho and Jianzhi Zhang (2019) Genetic gene expression changes during environmental adaptations tend to reverse plastic changes even after the correction for statistical nonindependence. *Mol. Biol. Evol.* *in press*
 
 5. Wei-Chin Ho and Jianzhi Zhang (2018) Evolutionary adaptations to new environments generally reverse plastic phenotypic changes. *Nat. Comm.* 9: 350.
