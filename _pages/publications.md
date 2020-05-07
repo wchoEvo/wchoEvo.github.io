@@ -11,7 +11,7 @@ author_profile: true
 
 * Wei-Chin Ho\*, Diyan Li\*, Qing Zhu, and Jianzhi Zhang (2020) Phenotypic plasticity as a long-term memory easing readaptations to ancestral environments. *Sci. Adv.* *in press* (*co-first authors)
 
-* Michael Lynch and Wei-Chin Ho (2020) The Limits to Estimating Population-Genetic Parameters with Temporal Data . *Genome Biol. Evol.* 12(4): 443–455.
+* Michael Lynch and Wei-Chin Ho (2020) The Limits to Estimating Population-Genetic Parameters with Temporal Data. *Genome Biol. Evol.* 12(4): 443–455.
 <u><a href="https://doi.org/10.1093/gbe/evaa056">Link</a></u>
 
 * Wei-Chin Ho and Jianzhi Zhang (2019) Genetic gene expression changes during environmental adaptations tend to reverse plastic changes even after the correction for statistical nonindependence. *Mol. Biol. Evol.* 36(3): 604–612.
