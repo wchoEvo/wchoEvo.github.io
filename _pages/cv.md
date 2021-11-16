@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Download PDF [__here__](http://wchoEvo.github.io/files/weichinho_cv.pdf).
+Download PDF <u><a href="http://wchoEvo.github.io/files/weichinho_cv.pdf">here</a></u>.
