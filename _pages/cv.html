@@ -7,4 +7,10 @@ redirect_from:
   - /resume
 ---
 
-<embed src="http://wchoEvo.github.io/files/weichinho_cv.pdf" width="800px" height="1200px"/>
+{% include base_path %}
+
+<embed src="http://wchoEvo.github.io/files/weichinho_cv.pdf" width="600px" height="800px"/>
+
+{% for post in site.cv reversed %}
+  {% include archive-single.html %}
+{% endfor %}
