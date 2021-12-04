@@ -9,6 +9,8 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+* Wei-Chin Ho, Megan G. Behringer, Samuel F. Miller, Jadon Gonzales, Amber Nguyen, Meriem Allahwerdy, Gwyneth Boyer & Michael Lynch (2021) Evolutionary dynamics of asexual hypermutators adapting to a novel environment. *Genome Biol. Evol.* in press
+
 * Wei-Chin Ho\*, Diyan Li\*, Qing Zhu, and Jianzhi Zhang (2020) Phenotypic plasticity as a long-term memory easing readaptations to ancestral environments. *Sci. Adv.* 6(21): eaba3388. (*co-first authors) <u><a href="https://www.science.org/doi/10.1126/sciadv.aba3388">Link</a></u>
 
 * Michael Lynch and Wei-Chin Ho (2020) The limits to estimating population-genetic parameters with temporal data. *Genome Biol. Evol.* 12(4): 443–455.
