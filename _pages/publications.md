@@ -9,9 +9,9 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-* Megan G. Behringer\*, Wei-Chin Ho\*, John C. Meraz, Samuel F. Miller, Gwyneth F. Boyer, Carl J. Stone, Meredith Andersen & Michael Lynch (2022) Complex ecotype dynamics evolve in response to fluctuating resources. *mBio* in press. <u><a href="https://doi.org/10.1128/mbio.03467-21">`Link`</a></u>
+* Megan G. Behringer\*, Wei-Chin Ho\*, John C. Meraz, Samuel F. Miller, Gwyneth F. Boyer, Carl J. Stone, Meredith Andersen & Michael Lynch (2022) Complex ecotype dynamics evolve in response to fluctuating resources. *mBio* in press. <u><a href="https://doi.org/10.1128/mbio.03467-21">Link</a></u>
 
-* Wei-Chin Ho, Megan G. Behringer, Samuel F. Miller, Jadon Gonzales^, Amber Nguyen^, Meriem Allahwerdy^, Gwyneth Boyer & Michael Lynch (2021) Evolutionary dynamics of asexual hypermutators adapting to a novel environment. *Genome Biol. Evol.* 13(12):evab257. <u><a href="https://doi.org/10.1093/gbe/evab257">`Link`</a></u>
+* Wei-Chin Ho, Megan G. Behringer, Samuel F. Miller, Jadon Gonzales^, Amber Nguyen^, Meriem Allahwerdy^, Gwyneth Boyer & Michael Lynch (2021) Evolutionary dynamics of asexual hypermutators adapting to a novel environment. *Genome Biol. Evol.* 13(12):evab257. <u><a href="https://doi.org/10.1093/gbe/evab257">Link</a></u>
 
 * Wei-Chin Ho\*, Diyan Li\*, Qing Zhu & Jianzhi Zhang (2020) Phenotypic plasticity as a long-term memory easing readaptations to ancestral environments. *Sci. Adv.* 6(21): eaba3388. <u><a href="https://www.science.org/doi/10.1126/sciadv.aba3388">Link</a></u>
 
