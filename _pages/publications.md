@@ -9,7 +9,9 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-* Megan G. Behringer\*, Wei-Chin Ho\*, John C. Meraz, Samuel F. Miller, Gwyneth F. Boyer, Carl J. Stone, Meredith Andersen & Michael Lynch (2022) Complex ecotype dynamics evolve in response to fluctuating resources. *mBio* in press. [`Link`](https://doi.org/10.1128/mbio.03467-21)
+* Leandra Brettner, Wei-Chin Ho, Kara Schmidlin, Sam Apodaca, Rachel Eder & Kerry Geiler-Samerotte (2022) Challenges and potential solutions for studying the genetic and phenotypic architecture of adaptation in microbes. *Curr. Opin. Genet. Dev.* 75:101951. [`Link`](https://doi.org/10.1016/j.gde.2022.101951)
+
+* Megan G. Behringer\*, Wei-Chin Ho\*, John C. Meraz, Samuel F. Miller, Gwyneth F. Boyer, Carl J. Stone, Meredith Andersen & Michael Lynch (2022) Complex ecotype dynamics evolve in response to fluctuating resources. *mBio* 13(3):e0346721. [`Link`](https://doi.org/10.1128/mbio.03467-21)
 
 * Wei-Chin Ho, Megan G. Behringer, Samuel F. Miller, Jadon Gonzales^, Amber Nguyen^, Meriem Allahwerdy^, Gwyneth Boyer & Michael Lynch (2021) Evolutionary dynamics of asexual hypermutators adapting to a novel environment. *Genome Biol. Evol.* 13(12):evab257. [`Link`](https://doi.org/10.1093/gbe/evab257)
 
