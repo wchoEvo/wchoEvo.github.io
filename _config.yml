@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home" #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Wei-Chin Ho"
-description              : &description "An evolutionary biologist."
+description              : &description "An evolutionary geneticist."
 url                      : https://wchoevo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "wchoevo/wchoevo.github.io"
@@ -81,11 +81,11 @@ analytics:
 author:
   name             : "Wei-Chin Ho"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral evolutionary biologist at Arizona State University"
-  location         : "Tempe, AZ"
+  bio              : "Evolutionary geneticist"
+  location         : "Tyler, TX"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=7zJZMeUAAAAJ&hl=en"
-  email            : "weichinh@asu.edu"
+  email            : "who@uttyler.edu"
   uri              :
   bitbucket        :
   codepen          :
