@@ -1,1 +1,15 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+---
 
+{% include base_path %}
+
+
+<iframe  src="https://github.com/wchoEvo/wchoEvo.github.io/blob/master/files/weichinho_cv.pdf" style="width:500px; height:750px;" frameborder="0"></iframe>
+
+{% for post in site.cv reversed %}
+  {% include archive-single.html %}
+{% endfor %}
