@@ -8,10 +8,7 @@ main:
 
   #- title: "Talks"
   # url: /talks/    
-
-  #- title: "Teaching"
-  #  url: /teaching/    
-    
+ 
   #- title: "Portfolio"
   #  url: /portfolio/
         
@@ -20,6 +17,12 @@ main:
     
   - title: "CV"
     url: /cv/
+  
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Opportunities"
+    url: /opportunities/
     
   #- title: "Guide"
   #  url: /markdown/
