@@ -8,6 +8,7 @@ author_profile: true
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
+
 12. Wen Wei\*, Wei-Chin Ho\*, Megan G. Behringer, Samuel F. Miller, George Bcharah & Michael Lynch (2022) Rapid evolution of mutation rate and spectrum in response to environmental and population-genetic challenges. *Nat. Comm.* 13:4752. [`Link`](https://doi.org/10.1038/s41467-022-32353-6)
 
 11. Leandra Brettner, Wei-Chin Ho, Kara Schmidlin, Sam Apodaca, Rachel Eder & Kerry Geiler-Samerotte (2022) Challenges and potential solutions for studying the genetic and phenotypic architecture of adaptation in microbes. *Curr. Opin. Genet. Dev.* 75:101951. [`Link`](https://doi.org/10.1016/j.gde.2022.101951)
