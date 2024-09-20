@@ -27,7 +27,7 @@ permalink: /members/
             </div>
         </div>
     </div>
-</div>
+
 
 
 <!-- Alumni -->
