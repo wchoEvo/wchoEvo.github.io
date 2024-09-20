@@ -15,7 +15,7 @@ permalink: /members/
         <div class="col-md-2">
                 <img src="http://wchoEvo.github.io/images/members/who.jpg"
                     class="card-img img-responsive img-thumbnail"
-                    style="filter: grayscale(100%); max-width: 30px;"/>
+                    style="filter: grayscale(100%); max-width: 60px;"/>
         </div>
 
         <div class="col-md-10">
@@ -25,6 +25,13 @@ permalink: /members/
             </div>
         </div>
     </div>
+</div>
+
+<div class="col-md-10">
+            <div class="card-body">
+            <h4 class="card-title">Dr. Wei-Chin Ho</h4>
+            <p class="card-text">Principal Investigator</p>
+            </div>
 </div>
 
 <div class="card border-secondary mb-3" style="max-width: 18rem;">
