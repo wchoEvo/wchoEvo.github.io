@@ -18,15 +18,6 @@ permalink: /members/
                     style="filter: grayscale(100%); max-width: 60px;"/>
         </div>
 
-            <div class="col-md-10">
-            
-            <div class="card-body">
-           <h4 class="card-title">Dr. Wei-Chin Ho</h4>
-            <p class="card-text">Principal Investigator</p>
-            </div>
-        </div>
-    </div>
-</div>
 
 <div class="col-md-10">
             <div class="card-header">Dr. Wei-Chin Ho</div>
