@@ -9,7 +9,7 @@ author_profile: true
 
 <h2><a id="Current members"></a>Members</h2>
 
-<div class="card team-member-card">
+<div class="card mb-3" style="max-width: 540px;">
  <div class="row mt-3">
   <div class="col-md-2">
    <img src="http://wchoEvo.github.io/images/members/who.jpg"
