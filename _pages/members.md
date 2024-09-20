@@ -14,7 +14,7 @@ author_profile: true
   <div class="col-md-2">
    <img src="http://wchoEvo.github.io/images/members/who.jpg"
        class="card-img img-responsive img-thumbnail"
-       style="max-width: 100px;"/>
+       style="max-width: 200px;"/>
   </div>
      <div class="col-md-10">
         <div class="card-header">Dr. Wei-Chin Ho</div>
