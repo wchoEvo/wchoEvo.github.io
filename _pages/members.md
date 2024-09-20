@@ -14,7 +14,7 @@ permalink: /members/
     <div class="row mt-3">
         <div class="col-md-2">
             <a href={{member.url}}>
-                <img src="{wchoEvo.github.io/images/team/who.png}"
+                <img src="http://wchoEvo.github.io/images/members/who.jpg"
                     class="card-img img-responsive img-thumbnail"
                     style="filter: grayscale(100%); max-width: 100px;"/>
             </a>
