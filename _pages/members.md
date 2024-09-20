@@ -23,7 +23,7 @@ permalink: /members/
         <div class="col-md-10">
             <div class="card-body">
             <h4 class="card-title">Dr. Wei-Chin Ho</h4>
-            <p class="card-text">Principal Investigator"</p>
+            <p class="card-text">Principal Investigator</p>
             </div>
         </div>
     </div>
