@@ -6,18 +6,16 @@ sitemap: false
 permalink: /members/
 ---
 
-<h1>{{page.title}}</h1>
-
 <!-- Members -->
 
 <h2><a id="members"></a>Members</h2>
-{% assign members = site.posts | where: 'category', 'current' | sort: 'date' %}
+
 {% for member in members %}
 <div class="card team-member-card">
     <div class="row mt-3">
         <div class="col-md-2">
             <a href={{member.url}}>
-                <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
+                <img src="{wchoEvo.github.io/images/team/who.png}"
                     class="card-img img-responsive img-thumbnail"
                     style="filter: grayscale(100%); max-width: 100px;"/>
             </a>
@@ -25,13 +23,13 @@ permalink: /members/
 
         <div class="col-md-10">
             <div class="card-body">
-            <h4 class="card-title">{{ member.title }}</h4>
-            <p class="card-text">{{ member.role }}</p>
+            <h4 class="card-title">{"Dr. Wei-Chin Ho"}</h4>
+            <p class="card-text">{"Principal Investigator"}</p>
             </div>
         </div>
     </div>
 </div>
-{% endfor %}
+
 
 <!-- Alumni -->
 
