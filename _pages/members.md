@@ -21,7 +21,9 @@ author_profile: true
         <div class="card-body">
         <h4 class="card-title">Principal Investigator</h4>
         <p class="card-text">Dr. Ho is the principal investigator in the lab.</p>
-    </div>
+        </div>
+  </div>
+ </div>
 </div>
 
 
