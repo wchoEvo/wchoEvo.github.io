@@ -15,7 +15,7 @@ permalink: /members/
         <div class="col-md-2">
                 <img src="http://wchoEvo.github.io/images/members/who.jpg"
                     class="card-img img-responsive img-thumbnail"
-                    style="filter: grayscale(100%); max-width: 100px;"/>
+                    style="filter: grayscale(100%); max-width: 30px;"/>
         </div>
 
         <div class="col-md-10">
