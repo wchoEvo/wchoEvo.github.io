@@ -10,7 +10,6 @@ permalink: /members/
 
 <h2><a id="members"></a>Members</h2>
 
-{% for member in members %}
 <div class="card team-member-card">
     <div class="row mt-3">
         <div class="col-md-2">
