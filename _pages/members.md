@@ -1,9 +1,8 @@
 ---
 title: "Members"
-layout: default
-excerpt: "Members"
-sitemap: false
+layout: archive
 permalink: /members/
+author_profile: true
 ---
 
 <!-- Members -->
