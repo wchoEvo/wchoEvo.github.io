@@ -7,7 +7,7 @@ author_profile: true
 
 <!-- Members -->
 
-<h2><a id="members"></a>Members</h2>
+<h2><a id="Current members"></a>Members</h2>
 
 <div class="card team-member-card">
  <div class="row mt-3">
