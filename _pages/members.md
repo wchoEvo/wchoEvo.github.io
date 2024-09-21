@@ -5,17 +5,17 @@ permalink: /members/
 author_profile: true
 ---
 
-<h4><a id="Current members"></a>Current Members</h4>
-<h4>                                           </h4>
+<h3><a id="Current members"></a>Current Members</h3>
+<h3>                                           </h3>
 
 <div class="container">
  <div class="row align-items-center mb-3">
-    <div class="col-md-4">
+    <div class="col-md-3">
       <img src="http://wchoEvo.github.io/images/members/who.jpg"
        class="img-fluid rounded-start"
        style="max-width: 150px;">  
     </div>
-    <div class="col-md-4">
+    <div class="col-md-3">
       <h3 class="card-title">Dr. Wei-Chin Ho</h3>
       <h3 class="card-title"><em>Principal Investigator</em></h3>
       <p class="card-text"><a href="http://wchoEvo.github.io/files/weichinho_cv.pdf"><u>Download CV</u></a></p>
