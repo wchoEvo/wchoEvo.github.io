@@ -8,7 +8,7 @@ author_profile: true
 <h3><a id="Current members"></a>Current Members</h3>
 <h3>                                           </h3>
 
-
+<div class="container">
 
 <div class="card mb-3">
   <div class="row g-0">
@@ -25,5 +25,6 @@ author_profile: true
         </div>
      </div>
  </div>
+</div>
 </div>
 
