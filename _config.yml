@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Dr. Ho's Lab of Microbial Genetics and Evolution"
   avatar           : "word_cloud.jpeg.jpg"
-  bio              : "                                                "
+  bio              : "---------"
   location         : "Tyler, TX"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=7zJZMeUAAAAJ&hl=en"
@@ -105,7 +105,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "wchoEvo"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
