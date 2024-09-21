@@ -5,16 +5,14 @@ permalink: /members/
 author_profile: true
 ---
 
-<!-- Members -->
-
 <h2><a id="Current members"></a>Current Members</h2>
 
 <div class="card mb-3" style="max-width: 540px;">
   <div class="row g-0">
   <div class="col-md-2">
    <img src="http://wchoEvo.github.io/images/members/who.jpg"
-       class="card-img img-responsive img-thumbnail"
-       style="max-width: 150px;"/>
+       class="img-fluid rounded-start"
+        alt="...">  
   </div>
      <div class="col-md-10">
         <div class="card-body">
