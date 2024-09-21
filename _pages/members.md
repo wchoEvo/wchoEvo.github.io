@@ -5,8 +5,26 @@ permalink: /members/
 author_profile: true
 ---
 
-<h2><a id="Current members"></a>Current Members</h2>
-<h2>                                           </h2>
+<h3><a id="Current members"></a>Current Members</h3>
+<h3>                                           </h3>
+
+<div class="row">
+  <div class="col-sm-6 mb-3 mb-sm-0">
+    <div class="card">
+      <img src="http://wchoEvo.github.io/images/members/who.jpg"
+        class="img-fluid rounded-start"
+         style="max-width: 150px;">    
+    </div>
+  </div>
+  <div class="col-sm-6">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title">Title</h5>
+        <p class="card-text">With supporting text.</p>
+      </div>
+    </div>
+  </div>
+</div>
 
 <div class="card mb-3">
   <div class="row g-0">
