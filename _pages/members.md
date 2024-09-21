@@ -1,6 +1,6 @@
 ---
 title: "Members"
-layout: default
+layout: archive
 permalink: /members/
 author_profile: true
 ---
