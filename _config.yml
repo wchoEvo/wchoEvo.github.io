@@ -79,9 +79,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Wei-Chin Ho"
-  avatar           : "profile.jpg"
-  bio              : "Evolutionary geneticist"
+  name             : "Dr. Ho's Lab of Microbial Genetics and Evolution"
+  avatar           : 
+  bio              : 
   location         : "Tyler, TX"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=7zJZMeUAAAAJ&hl=en"
@@ -99,10 +99,10 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "wchoEvo"
