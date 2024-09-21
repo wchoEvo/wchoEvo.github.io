@@ -20,7 +20,7 @@ author_profile: true
         <div class="card-body">
         <h4 class="card-title">Dr. Wei-Chin Ho</h4>
         <h4 class="card-title">Principal Investigator</h4>
-        <p class="card-text"><a href="http://wchoEvo.github.io/files/weichinho_cv.pdf"><u>Download CV</u></a>.
+        <p class="card-text"><a href="http://wchoEvo.github.io/files/weichinho_cv.pdf"><u>Download CV</u></a>
         </div>
      </div>
  </div>
