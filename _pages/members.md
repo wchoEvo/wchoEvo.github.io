@@ -40,4 +40,6 @@ author_profile: true
  </div>
 </div>
 
-
+{% for post in site.research %}
+  {% include archive-single.html %}
+{% endfor %}
