@@ -13,7 +13,7 @@ author_profile: true
   <div class="col-md-2">
    <img src="http://wchoEvo.github.io/images/members/who.jpg"
        class="img-fluid rounded-start"
-        alt="...">  
+       style="max-width: 200px;">  
   </div>
      <div class="col-md-10">
         <div class="card-body">
