@@ -1,9 +1,12 @@
 ---
-title: "Members"
 layout: archive
+title: "Members"
 permalink: /members/
 author_profile: true
+
 ---
+
+{% include base_path %}
 
 <h3><a id="Current members"></a>Current Members</h3>
 <h3>                                           </h3>
