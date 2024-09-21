@@ -10,7 +10,7 @@ author_profile: true
 <h2><a id="Current members"></a>Current Members</h2>
 
 <div class="card mb-3" style="max-width: 540px;">
-  <div class="row no-gutters">
+  <div class="row g-0">
   <div class="col-md-3">
    <img src="http://wchoEvo.github.io/images/members/who.jpg"
        class="card-img img-responsive img-thumbnail"
