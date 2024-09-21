@@ -20,6 +20,9 @@ main:
 
   - title: "Members"
     url: /members/  
+
+  - title: "Photos"
+    url: /photos/   
   
   - title: "Teaching"
     url: /teaching/
