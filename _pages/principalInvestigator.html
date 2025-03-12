@@ -4,6 +4,11 @@ title: "Principal Investigator"
 permalink: /principalInvestigator/
 
 ---
+
+{% include base_path %}
+
+<h2>Principal Investigator</h2>
+
 <img src="http://wchoEvo.github.io/images/members/who.jpg"
        class="img-fluid img-thumbnail"
         style="max-width: 200px;"> 
@@ -11,3 +16,7 @@ permalink: /principalInvestigator/
 <p ><a href="http://wchoEvo.github.io/files/weichinho_cv.pdf"><u>Download CV</u></a></p>
     
 <hr width="100%" size="10">
+
+{% for post in site.research %}
+  {% include archive-single.html %}
+{% endfor %}
