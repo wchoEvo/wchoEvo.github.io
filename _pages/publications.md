@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+* Stephan Baehr, Wei-Chin Ho, Samuel Perez, Alyssa Cenzano, Katelyn Hancock, Lea Patrick, Adalyn Brown, Samuel Miller & Michael Lynch (2025) Consideration of a Liquid Mutation-Accumulation Experiment to Measure Mutation Rates by Successive Serial Dilution. *Genome Biol. Evol.* 17(4):evaf049. [`Link`](https://doi.org/10.1093/gbe/evaf049)
+
 * Megan G. Behringer, Wei-Chin Ho, Samuel F. Miller, Sarah B. Worthan, Zeer Cen, Ryan Stikeleather & Michael Lynch (2024) Trade-offs, trade-ups, and high mutational parallelism underlie microbial adaptation during extreme cycles of feast and famine. *Curr. Biol.* 34(7): 1403-1413.[`Link`](https://www.cell.com/current-biology/fulltext/S0960-9822(24)00215-X)
 
 * Wen Wei\*, Wei-Chin Ho\*, Megan G. Behringer, Samuel F. Miller, George Bcharah & Michael Lynch (2022) Rapid evolution of mutation rate and spectrum in response to environmental and population-genetic challenges. *Nat. Comm.* 13:4752. [`Link`](https://doi.org/10.1038/s41467-022-32353-6)
